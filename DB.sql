@@ -1,0 +1,5 @@
+CREATE TABLE memorama (
+  id INT NOT NULL AUTO_INCREMENT,
+  foto LONGBLOB NOT NULL,
+  PRIMARY KEY (id)
+);
